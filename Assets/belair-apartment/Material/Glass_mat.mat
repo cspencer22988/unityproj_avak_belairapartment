@@ -96,7 +96,7 @@ Material:
     - _fScaleDepth: 0
     - _fScaleOverScaleDepth: 0
     m_Colors:
-    - _Color: {r: 0.6, g: 0.6, b: 0.6, a: 0}
+    - _Color: {r: 0.6, g: 0.6, b: 0.6, a: 0.4627451}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MainColor: {r: 0, g: 0, b: 0, a: 0.178}
     - _OffsetTransform: {r: 0, g: 0, b: 0, a: 1}
